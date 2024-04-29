@@ -30,7 +30,7 @@ class LLM:
                         temperature=0.7,
                         max_tokens=128,
                         top_k=1,
-                        together_api_key="b29c9a56f3a884d4296c48a75b24a737a6bd4c1d9c59c3f768e866e340e430d1"
+                        together_api_key=""
                         )
         return llm
 
