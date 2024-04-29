@@ -10,10 +10,8 @@ python3 -m pip install --upgrade pip
 - Hugging Face(ChatInterface) -> https://www.gradio.app/docs/chatinterface
 
 步骤：
-1.配置好环境变量如模型位置，数据库存储位置、apikey等；
-2.先在note_fastapi.iqynb中建立RAG数据库再使用
-3.运行
-‘’‘
-python main.py
-'''
+1.配置好环境变量如模型位置，数据库存储位置、apikey等；  
+2.先在note_fastapi.iqynb中建立RAG数据库再使用;  
+3.运行 python main.py
+
 
