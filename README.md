@@ -1,4 +1,4 @@
-# LLM_RAG_Model_Deployment
+# LLM_RAG
 
 python3 -m venv .venv  
 source .venv/bin/activate  
